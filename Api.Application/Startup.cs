@@ -72,7 +72,8 @@ namespace Application
                     Title = "API",
                     Version = "v1"
                 });
-                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme{
+                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                {
                     Description = "Entre com o Token JWT",
                     Name = "Authorization",
                     In = ParameterLocation.Header,
@@ -80,13 +81,13 @@ namespace Application
                 });
                 c.AddSecurityRequirement(new OpenApiSecurityRequirement{
                     {
-                        new OpenApiSecurityScheme{
-                            Reference = new OpenApiReference{
+                        new OpenApiSecurityScheme {
+                            Reference = new OpenApiReference {
                                 Id = "Bearer",
                                 Type = ReferenceType.SecurityScheme
-                            },
-                            new List<string>()
-                        }
+                            }
+                        },
+                         new List<string>()
                     }
                 });
             });

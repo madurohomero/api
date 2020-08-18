@@ -3993,11 +3993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj",
+      "projectUniqueName": "C:\\projetos\\src\\Api.Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj",
+      "projectPath": "C:\\projetos\\src\\Api.Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-      "outputPath": "E:\\projeto_flutter\\api\\Api.Service\\obj\\",
+      "outputPath": "C:\\projetos\\src\\Api.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4016,11 +4016,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj": {
-              "projectPath": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj"
+            "C:\\projetos\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "C:\\projetos\\src\\Api.Data\\Data.csproj"
             },
-            "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
-              "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj"
+            "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

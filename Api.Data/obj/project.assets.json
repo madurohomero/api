@@ -4011,11 +4011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj",
+      "projectUniqueName": "C:\\projetos\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj",
+      "projectPath": "C:\\projetos\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-      "outputPath": "E:\\projeto_flutter\\api\\Api.Data\\obj\\",
+      "outputPath": "C:\\projetos\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4034,8 +4034,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
-              "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj"
+            "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

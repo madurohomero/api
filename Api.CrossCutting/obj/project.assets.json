@@ -4086,11 +4086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projeto_flutter\\api\\Api.CrossCutting\\CrossCutting.csproj",
+      "projectUniqueName": "C:\\projetos\\src\\Api.CrossCutting\\CrossCutting.csproj",
       "projectName": "CrossCutting",
-      "projectPath": "E:\\projeto_flutter\\api\\Api.CrossCutting\\CrossCutting.csproj",
+      "projectPath": "C:\\projetos\\src\\Api.CrossCutting\\CrossCutting.csproj",
       "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-      "outputPath": "E:\\projeto_flutter\\api\\Api.CrossCutting\\obj\\",
+      "outputPath": "C:\\projetos\\src\\Api.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4109,14 +4109,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj": {
-              "projectPath": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj"
+            "C:\\projetos\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "C:\\projetos\\src\\Api.Data\\Data.csproj"
             },
-            "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
-              "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj"
+            "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj"
             },
-            "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj": {
-              "projectPath": "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj"
+            "C:\\projetos\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "C:\\projetos\\src\\Api.Service\\Service.csproj"
             }
           }
         }

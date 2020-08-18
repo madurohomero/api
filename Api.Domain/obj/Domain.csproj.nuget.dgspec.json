@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {}
+    "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
+    "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\projetos\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-        "outputPath": "E:\\projeto_flutter\\api\\Api.Domain\\obj\\",
+        "outputPath": "C:\\projetos\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
