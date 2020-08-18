@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\src\\Api.Application\\Application.csproj": {}
+    "E:\\projeto_flutter\\api\\Api.Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\src\\Api.Application\\Application.csproj": {
+    "E:\\projeto_flutter\\api\\Api.Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\src\\Api.Application\\Application.csproj",
+        "projectUniqueName": "E:\\projeto_flutter\\api\\Api.Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\projetos\\src\\Api.Application\\Application.csproj",
+        "projectPath": "E:\\projeto_flutter\\api\\Api.Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\src\\Api.Application\\obj\\",
+        "outputPath": "E:\\projeto_flutter\\api\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,14 +30,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\projetos\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "E:\\projeto_flutter\\api\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj"
+              "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj"
               },
-              "C:\\projetos\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Service\\Service.csproj"
+              "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -78,21 +78,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projetos\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "E:\\projeto_flutter\\api\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "E:\\projeto_flutter\\api\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\projetos\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "E:\\projeto_flutter\\api\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "E:\\projeto_flutter\\api\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -111,14 +117,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\projetos\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Data\\Data.csproj"
+              "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj"
               },
-              "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj"
+              "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj"
               },
-              "C:\\projetos\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Service\\Service.csproj"
+              "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -144,21 +150,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projetos\\src\\Api.Data\\Data.csproj": {
+    "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\projetos\\src\\Api.Data\\Data.csproj",
+        "projectPath": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\src\\Api.Data\\obj\\",
+        "outputPath": "E:\\projeto_flutter\\api\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -177,8 +189,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj"
+              "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -222,21 +234,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
+    "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\src\\Api.Domain\\obj\\",
+        "outputPath": "E:\\projeto_flutter\\api\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -278,21 +296,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projetos\\src\\Api.Service\\Service.csproj": {
+    "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\projetos\\src\\Api.Service\\Service.csproj",
+        "projectPath": "E:\\projeto_flutter\\api\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Homero\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\src\\Api.Service\\obj\\",
+        "outputPath": "E:\\projeto_flutter\\api\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -311,11 +335,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\projetos\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Data\\Data.csproj"
+              "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Data\\Data.csproj"
               },
-              "C:\\projetos\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\projetos\\src\\Api.Domain\\Domain.csproj"
+              "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj": {
+                "projectPath": "E:\\projeto_flutter\\api\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -337,10 +361,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

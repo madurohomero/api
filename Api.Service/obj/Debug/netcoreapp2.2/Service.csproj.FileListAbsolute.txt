@@ -12,3 +12,17 @@ C:\projetos\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
 C:\projetos\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
 C:\projetos\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
 C:\projetos\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
+E:\projeto_flutter\api\Api.Service\bin\Debug\netcoreapp2.2\Service.deps.json
+E:\projeto_flutter\api\Api.Service\bin\Debug\netcoreapp2.2\Service.dll
+E:\projeto_flutter\api\Api.Service\bin\Debug\netcoreapp2.2\Service.pdb
+E:\projeto_flutter\api\Api.Service\bin\Debug\netcoreapp2.2\Data.dll
+E:\projeto_flutter\api\Api.Service\bin\Debug\netcoreapp2.2\Domain.dll
+E:\projeto_flutter\api\Api.Service\bin\Debug\netcoreapp2.2\Domain.pdb
+E:\projeto_flutter\api\Api.Service\bin\Debug\netcoreapp2.2\Data.pdb
+E:\projeto_flutter\api\Api.Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+E:\projeto_flutter\api\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+E:\projeto_flutter\api\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+E:\projeto_flutter\api\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+E:\projeto_flutter\api\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+E:\projeto_flutter\api\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
+E:\projeto_flutter\api\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
